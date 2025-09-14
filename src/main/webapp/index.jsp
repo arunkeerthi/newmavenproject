@@ -1,10 +1,8 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Greens - best software and also need and need do this chagnge<font></h1>
+<h1><font color='red'> Welcome to Devops Class<font></h1>
 
-<h2> Arun - Senior Trainer for AWS & DevOps1 Annanagarnewbaranch greens tech is one of the leading instiute ALL the best... </h2>
-
-<a href=" http://www.greenstechnologys.com/contact.php">Click Here To See Greens Training Schedules</a>
+<h2> Arun - Senior Trainer for AWS & DevOps is one of the leading instiute ALL the best... </h2>
   
   <h2> Call Us : + 91 - 99 65 47 60 18 </h2>
 
